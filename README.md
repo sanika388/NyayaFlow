@@ -1,4 +1,5 @@
 NyayaFlow ⚖️
+
 Intelligent RTI Analysis & Automation System
 
 NyayaFlow is a professional-grade system designed to analyze Right to Information (RTI) response delays using Data Science, Computer Vision, and Generative AI. This system is built for real-world deployment and transforms raw RTI documents into structured, actionable insights.
